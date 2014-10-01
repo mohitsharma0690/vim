@@ -16,3 +16,6 @@
 [submodule "bundle/dash.vim"]
 	path = bundle/dash.vim
 	url = https://github.com/rizzatti/dash.vim.git
+[submodule "bundle/vim-preview"]
+	path = bundle/vim-preview
+	url = git@github.com:greyblake/vim-preview.git
